@@ -1,0 +1,741 @@
+[2024-08-04T21:34:26.949Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 66647.63742046221, Balance: 95555.99664630523, lvl: 27
+[2024-08-04T21:42:37.533Z] User: iluhatck (ID: 6056983565), Action: Viagra, Amount: 2100, Balance: 70736.19188529949, 7
+[2024-08-04T23:15:27.871Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 3700, Balance: 99255.99664630523, 
+[2024-08-04T23:18:56.198Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 114055.99664630523, 
+[2024-08-04T23:20:22.479Z] User: Golyb333 (ID: 1504349040), Action: Quiz Lose, Amount: 0, Balance: 114055.99664630523, 
+[2024-08-04T23:20:26.504Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 128855.99664630523, 
+[2024-08-04T23:22:25.354Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 143655.99664630523, 
+[2024-08-04T23:25:13.897Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 158455.99664630523, 
+[2024-08-04T23:27:44.625Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 173255.99664630523, 
+[2024-08-04T23:27:45.941Z] User: Golyb333 (ID: 1504349040), Action: Quiz Lose, Amount: 0, Balance: 173255.99664630523, 
+[2024-08-04T23:28:38.826Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 188055.99664630523, 
+[2024-08-04T23:29:45.679Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 202855.99664630523, 
+[2024-08-04T23:35:23.268Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 217655.99664630523, 
+[2024-08-04T23:39:19.348Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 14800, Balance: 232455.99664630523, 
+[2024-08-04T23:39:49.418Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 25250, Balance: 257705.99664630523, 
+[2024-08-04T23:50:29.071Z] User: Golyb333 (ID: 1504349040), Action: Quiz Lose, Amount: 0, Balance: 257705.99664630523, 
+[2024-08-05T07:28:55.069Z] User: XYU228120 (ID: 1368153150), Action: Farm, Amount: 3504.254539967999, Balance: 1052171.879882727, lvl: 5
+[2024-08-05T07:28:55.074Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2869.543311839999, Balance: 73605.73519713948, Referrer: TIMOHA200483, amount: 286.95433118399995, lvl: 4
+[2024-08-05T07:28:55.077Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8034.067598678902, Balance: 1307019.598742706, Referrer: Golyb333, amount: 803.4067598678903, lvl: 11
+[2024-08-05T07:28:55.148Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 1357300.7566591145, Farms Mined: 18
+[2024-08-05T07:30:21.240Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 13903.125, Balance: 272412.5284061731, Farms Mined: 3
+[2024-08-05T07:31:10.978Z] User: Karkarich1223 (ID: 974187132), Action: Cripta bought, Amount: 996195.08, Balance: 361105.67665911454, Coin: Bitcoin, Amount: 19
+[2024-08-05T07:32:08.341Z] User: Karkarich1223 (ID: 974187132), Action: Cripta sell, Amount: 0.120586, Balance: 361105.7972451145, Coin: TRON, Amount: 1
+[2024-08-05T07:32:19.978Z] User: Karkarich1223 (ID: 974187132), Action: Cripta sell, Amount: 120, Balance: 361225.7972451145, Coin: Shiba Inu, Amount: 10000000
+[2024-08-05T07:58:43.940Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 19228.4, Balance: 291640.92840617313, 
+[2024-08-05T07:59:36.145Z] User: CourtisYT (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 232151.84848080657, 
+[2024-08-05T08:03:05.529Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 1786.3799999999999, Balance: 233938.22848080657, Referrer: Golyb333, amount: 178.638, lvl: 1
+[2024-08-05T08:57:02.926Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4355.89946649665, Balance: 43515.47605687148, Referrer: Golyb333, amount: 435.5899466496651, lvl: 8
+[2024-08-05T08:59:34.043Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 52404.076056871476, 
+[2024-08-05T11:08:18.751Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1699, Balance: 3606, lvl: 0
+[2024-08-05 14:08:53] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 1000, Balance: 4606, 
+[2024-08-05 14:09:20] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 2000, Balance: 6606, 
+[2024-08-05 14:10:01] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 1000, Balance: 5606, 
+[2024-08-05 14:10:17] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 1000, Balance: 6606, 
+[2024-08-05 14:10:44] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 6000, Balance: 12606, 
+[2024-08-05 14:11:21] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 3000, Balance: 9606, 
+[2024-08-05 14:11:39] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 3000, Balance: 6606, 
+[2024-08-05 14:12:09] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 6000, Balance: 12606, 
+[2024-08-05 14:13:11] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 10, Balance: 12596, 
+[2024-08-05 14:13:30] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 3000, Balance: 15596, 
+[2024-08-05 14:27:50] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 14596, 
+[2024-08-05 14:28:11] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 10, Balance: 14606, 
+[2024-08-05 14:28:31] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 13606, 
+[2024-08-05 14:28:57] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 2500, Balance: 11106, 
+[2024-08-05 14:29:50] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1488, Balance: 9618, 
+[2024-08-05 14:30:07] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1488, Balance: 8130, 
+[2024-08-05 14:30:30] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 1300, Balance: 8430, 
+[2024-08-05 14:34:50] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 7430, 
+[2024-08-05 14:35:08] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 1500, Balance: 7930, 
+[2024-08-05 14:35:25] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 9000, Balance: 10930, 
+[2024-08-05 14:39:06] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 10054.47174070252, 
+[2024-08-05 14:39:27] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 9054.47174070252, 
+[2024-08-05T11:48:33.525Z] User: CourtisYT (ID: 7449397621), Action: Give, Amount: 5000, Balance: 228388.22848080657, To: N1X0nat (ID: 5421713037)
+[2024-08-05T12:08:12.221Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 9000, Balance: 283255.1563528228, To: N1X0nat (ID: 5421713037)
+[2024-08-05 15:08:28] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 1000, Balance: 22054.47174070252, 
+[2024-08-05 15:08:50] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 500, Balance: 21554.47174070252, 
+[2024-08-05T12:11:47.375Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 2261.7599999999998, Balance: 230649.98848080658, Referrer: Golyb333, amount: 226.176, lvl: 1
+[2024-08-05T12:15:16.894Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6597.148617326547, Balance: 367852.9458624411, Referrer: Golyb333, amount: 659.7148617326548, lvl: 11
+[2024-08-05T12:15:28.036Z] User: Golyb333 (ID: 1504349040), Action: Quiz Lose, Amount: 0, Balance: 284141.04721455544, 
+[2024-08-05T12:15:36.455Z] User: CourtisYT (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 235729.1884808066, 
+[2024-08-05T12:15:43.288Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 367852.9458624411, 
+[2024-08-05T12:18:10.058Z] User: CourtisYT (ID: 7449397621), Action: Cripta bought, Amount: 2278.79, Balance: 233450.3984808066, Coin: Ethereum, Amount: 1
+[2024-08-05T12:19:05.948Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2845.897869599999, Balance: 76451.63306673948, Referrer: TIMOHA200483, amount: 284.5897869599999, lvl: 4
+[2024-08-05 15:19:37] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 5000, Balance: 71451.63306673948, 
+[2024-08-05 15:19:47] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 1000, Balance: 22554.47174070252, 
+[2024-08-05 15:19:57] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 5000, Balance: 76451.63306673948, 
+[2024-08-05 15:20:08] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 3000, Balance: 25554.47174070252, 
+[2024-08-05 15:20:16] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 5000, Balance: 71451.63306673948, 
+[2024-08-05 15:20:32] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 5000, Balance: 30554.47174070252, 
+[2024-08-05 15:21:45] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 750, Balance: 30804.47174070252, 
+[2024-08-05 15:22:22] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 7500, Balance: 33304.47174070252, 
+[2024-08-05 15:23:32] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10000, Balance: 59161.63306673948, 
+[2024-08-05 15:23:56] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 20000, Balance: 79161.63306673948, 
+[2024-08-05 15:24:15] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 1000, Balance: 78161.63306673948, 
+[2024-08-05 15:24:22] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 13500, Balance: 37804.47174070252, 
+[2024-08-05 15:24:36] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 3000, Balance: 81161.63306673948, 
+[2024-08-05 15:24:57] User: iluhatck (ID: 6056983565), Action: Rocket Crash, Amount: 3000, Balance: 78161.63306673948, 
+[2024-08-05 15:24:57] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 6000, Balance: 31804.471740702516, 
+[2024-08-05T12:25:14.446Z] User: iluhatck (ID: 6056983565), Action: Give, Amount: 5000, Balance: 76161.63306673948, To: unknown (ID: 5442374880)
+[2024-08-05 15:25:21] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 30804.471740702516, 
+[2024-08-05 15:25:32] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 4000, Balance: 26804.471740702516, 
+[2024-08-05 15:25:34] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10000, Balance: 71161.63306673948, 
+[2024-08-05 15:25:46] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 10000, Balance: 20804.471740702516, 
+[2024-08-05 15:25:56] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 70000, Balance: 141161.63306673948, 
+[2024-08-05 15:26:19] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 20000, Balance: 804.4717407025164, 
+[2024-08-05 15:26:31] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 800, Balance: 4.471740702516399, 
+[2024-08-05 15:27:49] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 50000, Balance: 91161.63306673948, 
+[2024-08-05 15:28:08] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 90000, Balance: 1161.6330667394795, 
+[2024-08-05T12:28:31.915Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 10000, Balance: 274141.04721455544, To: N1X0nat (ID: 5421713037)
+[2024-08-05T12:28:44.240Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 10000, Balance: 264141.04721455544, To: iluhatck (ID: 6056983565)
+[2024-08-05T12:32:22.791Z] User: CourtisYT (ID: 7449397621), Action: Give, Amount: 33000, Balance: 200450.3984808066, To: iluhatck (ID: 6056983565)
+[2024-08-05T12:32:46.273Z] User: CourtisYT (ID: 7449397621), Action: Give, Amount: 450, Balance: 200000.3984808066, To: Golyb333 (ID: 1504349040)
+[2024-08-05 15:39:35] User: quuski (ID: 939946520), Action: Rocket Win, Amount: 110.00000000000001, Balance: 52414.076056871476, 
+[2024-08-05 15:39:48] User: Karkarich1223 (ID: 974187132), Action: Casino Lose, Amount: 20000, Balance: 347852.9458624411, 
+[2024-08-05 15:39:53] User: quuski (ID: 939946520), Action: Casino Win, Amount: 50000, Balance: 102414.07605687148, 
+[2024-08-05T12:40:42.605Z] User: Karkarich1223 (ID: 974187132), Action: Cripta bought, Amount: 100606.14, Balance: 267246.8058624411, Coin: Bitcoin, Amount: 2
+[2024-08-05T12:48:35.807Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 600, Balance: 101814.07605687148, Coin: Pepe, Amount: 100000000
+[2024-08-05T12:48:51.575Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 599.999994, Balance: 101214.07606287148, Coin: Pepe, Amount: 99999999
+[2024-08-05T12:49:43.687Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 89.288928, Balance: 101124.78713487148, Coin: Pepe, Amount: 14881488
+[2024-08-05T12:49:55.414Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 892.889328, Balance: 100231.89780687148, Coin: Pepe, Amount: 148814888
+[2024-08-05T12:50:16.551Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 59999.999994, Balance: 40231.89781287148, Coin: Pepe, Amount: 9999999999
+[2024-08-05T12:53:05.929Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 49120.49781287148, 
+[2024-08-05T15:49:48.889Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1976, Balance: 11980.471740702516, lvl: 0
+[2024-08-05T15:49:48.900Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2780.028423359999, Balance: 46941.661490099475, Referrer: TIMOHA200483, amount: 278.0028423359999, lvl: 4
+[2024-08-05T15:49:48.903Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7615.6706011674805, Balance: 274862.47646360856, Referrer: Golyb333, amount: 761.567060116748, lvl: 11
+[2024-08-05T15:50:23.304Z] User: CourtisYT (ID: 7449397621), Action: Quiz Lose, Amount: 0, Balance: 200000.3984808066, 
+[2024-08-05T15:50:57.154Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 19228.4, Balance: 284581.0142746722, 
+[2024-08-05T15:52:06.237Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 2167.14, Balance: 202167.5384808066, Referrer: Golyb333, amount: 216.714, lvl: 1
+[2024-08-05T15:52:40.160Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 285383.6764636086, 
+[2024-08-05 19:00:30] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 10980.471740702516, 
+[2024-08-05 19:00:43] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 1000, Balance: 9980.471740702516, 
+[2024-08-05 19:00:55] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 3000, Balance: 12980.471740702516, 
+[2024-08-05 19:01:18] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 3000, Balance: 9980.471740702516, 
+[2024-08-05 19:01:46] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 3000, Balance: 12980.471740702516, 
+[2024-08-05 19:02:07] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 1000, Balance: 13980.471740702516, 
+[2024-08-05 19:02:28] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 1600, Balance: 14580.471740702516, 
+[2024-08-05 19:30:59] User: CourtisYT (ID: 7449397621), Action: Casino Lose, Amount: 1e-12, Balance: 202167.5384808066, 
+[2024-08-05T16:50:13.634Z] User: Golyb333 (ID: 1504349040), Action: Cripta bought, Amount: 26950, Balance: 257847.72827467218, Coin: TON Coin, Amount: 5000
+[2024-08-05T16:50:27.009Z] User: Golyb333 (ID: 1504349040), Action: Cripta bought, Amount: 248191, Balance: 9656.728274672176, Coin: Ethereum, Amount: 100
+[2024-08-05 20:28:40] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 1000, Balance: 15580.471740702516, 
+[2024-08-05 20:28:59] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 3000, Balance: 18580.471740702516, 
+[2024-08-05T17:51:08.714Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 59391.367298832934, Balance: 69048.09557350511, lvl: 27
+[2024-08-05T17:51:14.436Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 50000, Balance: 19048.09557350511, To: CourtisYT (ID: 7449397621)
+[2024-08-05 20:54:31] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 3000, Balance: 21580.471740702516, 
+[2024-08-05 20:55:46] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 3000, Balance: 18580.471740702516, 
+[2024-08-05 20:56:16] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 5000, Balance: 13580.471740702516, 
+[2024-08-05T17:59:17.183Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6406.968163912265, Balance: 291790.6446275208, Referrer: Golyb333, amount: 640.6968163912265, lvl: 11
+[2024-08-05T18:00:35.639Z] User: CourtisYT (ID: 7449397621), Action: Cripta bought, Amount: 5.36, Balance: 252162.17848080661, Coin: TON Coin, Amount: 1
+[2024-08-06T05:42:02.378Z] User: quuski (ID: 939946520), Action: Quiz Lose, Amount: 0, Balance: 49120.49781287148, 
+[2024-08-06T05:42:02.874Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6783.1028384427345, Balance: 298573.74746596353, Referrer: Golyb333, amount: 678.3102838442735, lvl: 11
+[2024-08-06T05:42:02.876Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 348854.9053823721, Farms Mined: 18
+[2024-08-06T06:08:34.484Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 348854.9053823721, 
+[2024-08-06T08:04:58.071Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 58009.09781287148, 
+[2024-08-06T08:05:17.094Z] User: CourtisYT (ID: 7449397621), Action: Quiz Lose, Amount: 0, Balance: 252162.17848080661, 
+[2024-08-06T08:11:33.274Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 11160, Balance: 46849.09781287148, Coin: TON Coin, Amount: 2000
+[2024-08-06T08:11:48.961Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 2736.150416, Balance: 44112.94739687148, Coin: TRON, Amount: 22222
+[2024-08-06T08:12:13.942Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 439.89378400000004, Balance: 43673.05361287148, Coin: Dogecoin, Amount: 4444
+[2024-08-06T08:12:31.517Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 7698.834122, Balance: 35974.21949087148, Coin: Dogecoin, Amount: 77777
+[2024-08-06T08:12:56.200Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 0.77777, Balance: 35973.44172087148, Coin: Shiba Inu, Amount: 55555
+[2024-08-06T08:13:13.309Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 0.77777, Balance: 35972.66395087148, Coin: Shiba Inu, Amount: 55555
+[2024-08-06T08:13:20.063Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2567.219443199999, Balance: 49508.88093329947, Referrer: TIMOHA200483, amount: 256.7219443199999, lvl: 4
+[2024-08-06T08:13:39.352Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 1116, Balance: 34856.66395087148, Coin: TON Coin, Amount: 200
+[2024-08-06T08:13:49.491Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 5044.76, Balance: 29811.903950871478, Coin: Ethereum, Amount: 2
+[2024-08-06T08:14:58.614Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 27703.17, Balance: 2108.7339508714795, Coin: Ethereum, Amount: 11
+[2024-08-06T08:15:07.940Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5622.447837894498, Balance: 7731.181788765977, Referrer: Golyb333, amount: 562.2447837894498, lvl: 8
+[2024-08-06 11:24:55] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 13000, Balance: 26580.471740702516, 
+[2024-08-06T09:34:18.152Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 2146.62, Balance: 254308.7984808066, Referrer: Golyb333, amount: 214.662, lvl: 1
+[2024-08-06T10:53:13.830Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3205.646383679999, Balance: 52714.52731697947, Referrer: TIMOHA200483, amount: 320.5646383679999, lvl: 4
+[2024-08-06 13:58:47] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10000, Balance: 42714.52731697947, 
+[2024-08-06 14:00:23] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 10000, Balance: 16580.471740702516, 
+[2024-08-06 14:00:40] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 16000, Balance: 32580.471740702516, 
+[2024-08-06 14:00:54] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 20000, Balance: 22714.527316979467, 
+[2024-08-06 14:01:21] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 20000, Balance: 2714.5273169794673, 
+[2024-08-06 14:01:44] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 10000, Balance: 22580.471740702516, 
+[2024-08-06T11:01:50.504Z] User: Golyb333 (ID: 1504349040), Action: Quiz Win, Amount: 19228.4, Balance: 40372.40945753006, 
+[2024-08-06T11:02:07.460Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 27115.471740702516, 
+[2024-08-06T11:02:07.462Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 9426.327316979467, 
+[2024-08-06 14:02:19] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 10000, Balance: 12580.471740702516, 
+[2024-08-06 14:02:39] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 12000, Balance: 24580.471740702516, 
+[2024-08-06T11:02:46.973Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1544, Balance: 26124.471740702516, lvl: 0
+[2024-08-06 14:02:57] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 10000, Balance: 16124.471740702516, 
+[2024-08-06 14:03:26] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 16000, Balance: 124.4717407025164, 
+[2024-08-06 14:03:39] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 100, Balance: 224.4717407025164, 
+[2024-08-06 14:03:58] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 200, Balance: 24.4717407025164, 
+[2024-08-06 14:05:42] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 10, Balance: 34.4717407025164, 
+[2024-08-06 14:05:57] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 161, Balance: 40211.40945753006, 
+[2024-08-06T12:42:00.377Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6783.1028384427345, Balance: 355638.0082208148, Referrer: Golyb333, amount: 678.3102838442735, lvl: 11
+[2024-08-06T14:49:49.752Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6909.889807385589, Balance: 362547.8980282004, Referrer: Golyb333, amount: 690.9889807385589, lvl: 11
+[2024-08-06T16:17:02.308Z] User: quuski (ID: 939946520), Action: Quiz Lose, Amount: 0, Balance: 7731.181788765977, 
+[2024-08-06T16:17:02.310Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4367.309812184919, Balance: 12098.491600950896, Referrer: Golyb333, amount: 436.73098121849193, lvl: 8
+[2024-08-06T16:24:04.508Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1557, Balance: 1591.4717407025164, lvl: 0
+[2024-08-06T16:24:10.516Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 6126.471740702516, 
+[2024-08-06 19:24:36] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 6000, Balance: 126.4717407025164, 
+[2024-08-06T16:45:08.190Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 5000, Balance: 42017.43970333138, To: N1X0nat (ID: 5421713037)
+[2024-08-06 19:45:22] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 200, Balance: 5226.471740702516, 
+[2024-08-06 19:45:42] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 4226.471740702516, 
+[2024-08-06 19:45:54] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 1000, Balance: 3226.4717407025164, 
+[2024-08-06 19:48:30] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 2226.4717407025164, 
+[2024-08-06 19:48:52] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 2000, Balance: 226.4717407025164, 
+[2024-08-06 19:49:15] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 100, Balance: 42117.43970333138, 
+[2024-08-06 20:09:40] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 200, Balance: 426.4717407025164, 
+[2024-08-06 20:09:58] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 400, Balance: 826.4717407025164, 
+[2024-08-06 20:10:18] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 200, Balance: 626.4717407025164, 
+[2024-08-06 20:10:39] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 600, Balance: 26.4717407025164, 
+[2024-08-06T19:17:50.071Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2655.045371519999, Balance: 12081.372688499465, Referrer: TIMOHA200483, amount: 265.50453715199995, lvl: 4
+[2024-08-06 22:19:28] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 26, Balance: 52.4717407025164, 
+[2024-08-06 22:19:55] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 52, Balance: 0.4717407025163993, 
+[2024-08-06 22:20:37] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 12000, Balance: 24081.372688499465, 
+[2024-08-06T19:38:13.019Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1802, Balance: 1802.4717407025164, lvl: 0
+[2024-08-06T19:38:42.860Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 1802.4717407025164, 
+[2024-08-06T19:38:47.938Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6926.794736577969, Balance: 369474.69276477833, Referrer: Golyb333, amount: 692.679473657797, lvl: 11
+[2024-08-06T19:38:54.800Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 379995.89276477834, 
+[2024-08-06T19:39:08.081Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 30793.172688499464, 
+[2024-08-06 22:39:39] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 6000, Balance: 36793.172688499464, 
+[2024-08-06T19:40:14.143Z] User: iluhatck (ID: 6056983565), Action: Viagra, Amount: 300, Balance: 36493.172688499464, 1
+[2024-08-07T05:43:58.187Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8181.985729112233, Balance: 388177.8784938906, Referrer: Golyb333, amount: 818.1985729112233, lvl: 11
+[2024-08-07T05:48:44.620Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 438459.03641029913, Farms Mined: 18
+[2024-08-07T05:49:11.641Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 438459.03641029913, 
+[2024-08-07T06:29:54.323Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 43204.97268849947, 
+[2024-08-07T06:31:11.845Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2967.503001119999, Balance: 46172.47568961947, Referrer: TIMOHA200483, amount: 296.75030011199993, lvl: 4
+[2024-08-07 09:33:06] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 6000, Balance: 52172.47568961947, 
+[2024-08-07 09:33:27] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 1000, Balance: 51172.47568961947, 
+[2024-08-07 09:35:34] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 50000, Balance: 1172.4756896194667, 
+[2024-08-07 09:36:23] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 1172.4756896194667, Balance: 2344.9513792389334, 
+[2024-08-07 09:36:37] User: Karkarich1223 (ID: 974187132), Action: Rocket Win, Amount: 63000, Balance: 471459.03641029913, 
+[2024-08-07T06:36:40.874Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1893, Balance: 3695.4717407025164, lvl: 0
+[2024-08-07T06:36:50.758Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 8230.471740702516, 
+[2024-08-07 10:17:03] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 3000, Balance: 468459.03641029913, 
+[2024-08-07 11:19:01] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 2000, Balance: 4344.951379238933, 
+[2024-08-07T08:21:40.620Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 20987.091600950895, 
+[2024-08-07T08:21:48.792Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5662.384047803439, Balance: 26649.475648754335, Referrer: Golyb333, amount: 566.2384047803439, lvl: 8
+[2024-08-07T08:21:52.666Z] User: quuski (ID: 939946520), Action: Mining Farm, Amount: 5000, Balance: 31649.475648754335, Farm: 1
+[2024-08-07T08:27:16.111Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 1838.82, Balance: 256147.61848080662, Referrer: Golyb333, amount: 183.882, lvl: 1
+[2024-08-07T08:39:43.184Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7564.955813590339, Balance: 476023.99222388945, Referrer: Golyb333, amount: 756.495581359034, lvl: 11
+[2024-08-07T09:48:58.506Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1778, Balance: 10008.471740702516, lvl: 0
+[2024-08-07T09:49:05.786Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 14543.471740702516, 
+[2024-08-07 13:08:01] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 10000, Balance: 24543.471740702516, 
+[2024-08-07 13:23:33] User: quuski (ID: 939946520), Action: Rocket Crash, Amount: 1000, Balance: 30649.475648754335, 
+[2024-08-07 13:23:51] User: quuski (ID: 939946520), Action: Casino Lose, Amount: 1000, Balance: 29649.475648754335, 
+[2024-08-07 15:23:20] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 23543.471740702516, 
+[2024-08-07T13:09:56.343Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6483.040345277977, Balance: 482507.03256916744, Referrer: Golyb333, amount: 648.3040345277977, lvl: 11
+[2024-08-07 16:10:07] User: Karkarich1223 (ID: 974187132), Action: Casino Lose, Amount: 20000, Balance: 462507.03256916744, 
+[2024-08-07 16:10:20] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 30000, Balance: 432507.03256916744, 
+[2024-08-07 16:10:47] User: Karkarich1223 (ID: 974187132), Action: Rocket Win, Amount: 100000, Balance: 482507.03256916744, 
+[2024-08-07 17:08:46] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 40000, Balance: 442507.03256916744, 
+[2024-08-07 17:08:58] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 50000, Balance: 392507.03256916744, 
+[2024-08-07 17:09:06] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 50000, Balance: 442507.03256916744, 
+[2024-08-07T18:57:11.740Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7907.280629736047, Balance: 450414.31319890346, Referrer: Golyb333, amount: 790.7280629736047, lvl: 11
+[2024-08-07 21:57:26] User: Karkarich1223 (ID: 974187132), Action: Casino Lose, Amount: 10000, Balance: 440414.31319890346, 
+[2024-08-07 21:57:38] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 10000, Balance: 430414.31319890346, 
+[2024-08-07 21:58:11] User: RonaldinHHoo (ID: 5654107643), Action: Casino Lose, Amount: 100, Balance: 4900, 
+[2024-08-07T19:29:17.071Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 480695.471115312, Farms Mined: 18
+[2024-08-07T20:03:02.455Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 11056.751379238933, 
+[2024-08-07 23:03:17] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 6000, Balance: 17056.751379238933, 
+[2024-08-07T20:03:22.205Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 491216.671115312, 
+[2024-08-07T20:03:23.365Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2820.563467199999, Balance: 13877.314846438932, Referrer: TIMOHA200483, amount: 282.0563467199999, lvl: 4
+[2024-08-07 23:07:59] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 13000, Balance: 877.3148464389324, 
+[2024-08-07 23:08:18] User: iluhatck (ID: 6056983565), Action: Rocket Crash, Amount: 877, Balance: 0.3148464389323635, 
+[2024-08-08T06:19:55.251Z] User: quuski (ID: 939946520), Action: Quiz Lose, Amount: 0, Balance: 29649.475648754335, 
+[2024-08-08T06:19:55.254Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4301.700324477373, Balance: 33951.17597323171, Referrer: Golyb333, amount: 430.17003244773736, lvl: 8
+[2024-08-08T06:19:55.265Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1752, Balance: 25295.471740702516, lvl: 0
+[2024-08-08T06:19:55.259Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6347.800911738933, Balance: 497564.472027051, Referrer: Golyb333, amount: 634.7800911738933, lvl: 11
+[2024-08-08T06:19:55.263Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 23543.471740702516, 
+[2024-08-08 09:24:08] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 25000, Balance: 295.4717407025164, 
+[2024-08-08T06:44:41.600Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3320.495674559999, Balance: 3320.810520998931, Referrer: TIMOHA200483, amount: 332.0495674559999, lvl: 4
+[2024-08-08T06:44:52.624Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 10032.610520998931, 
+[2024-08-08T07:05:04.950Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7332.513037195105, Balance: 498549.1841525071, Referrer: Golyb333, amount: 733.2513037195106, lvl: 11
+[2024-08-08 10:39:49] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10000, Balance: 32.61052099893095, 
+[2024-08-08T07:58:12.419Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 548830.3420689157, Farms Mined: 18
+[2024-08-08T09:57:05.546Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7340.9655017912955, Balance: 556171.307570707, Referrer: Golyb333, amount: 734.0965501791296, lvl: 11
+[2024-08-08T10:28:06.209Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 42839.775973231706, 
+[2024-08-08T10:28:09.476Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5656.678874959304, Balance: 48496.45484819101, Referrer: Golyb333, amount: 565.6678874959305, lvl: 8
+[2024-08-08T10:28:12.850Z] User: quuski (ID: 939946520), Action: Mining Farm, Amount: 5000, Balance: 53496.45484819101, Farm: 1
+[2024-08-08T11:13:56.183Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 1886.6999999999998, Balance: 258034.31848080663, Referrer: Golyb333, amount: 188.67, lvl: 1
+[2024-08-08T12:07:08.932Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1596, Balance: 1891.4717407025164, lvl: 0
+[2024-08-08T12:08:02.025Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 1891.4717407025164, 
+[2024-08-08 15:08:15] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1891, Balance: 0.4717407025163993, 
+[2024-08-08T12:17:10.744Z] User: CourtisYT (ID: 7449397621), Action: Quiz Lose, Amount: 0, Balance: 258034.31848080663, 
+[2024-08-08T13:22:00.093Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6804.23399993321, Balance: 562975.5415706403, Referrer: Golyb333, amount: 680.423399993321, lvl: 11
+[2024-08-08T14:54:03.006Z] User: XYU228120 (ID: 1368153150), Action: Farm, Amount: 3113.395379740799, Balance: 1055285.2752624678, lvl: 5
+[2024-08-08T16:00:22.910Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7577.634510484624, Balance: 570553.1760811249, Referrer: Golyb333, amount: 757.7634510484625, lvl: 11
+[2024-08-08T18:33:19.867Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3355.963837919999, Balance: 3388.57435891893, Referrer: TIMOHA200483, amount: 335.5963837919999, lvl: 4
+[2024-08-08T18:33:28.323Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 10100.37435891893, 
+[2024-08-08 21:33:47] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10100, Balance: 0.3743589189307386, 
+[2024-08-08T19:07:40.683Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1698, Balance: 1698.4717407025164, lvl: 0
+[2024-08-08T19:07:48.245Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 6233.471740702516, 
+[2024-08-08 22:08:12] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 6233, Balance: 0.4717407025163993, 
+[2024-08-09T08:40:04.021Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 570553.1760811249, 
+[2024-08-09T08:40:04.024Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7915.733094332238, Balance: 578468.9091754572, Referrer: Golyb333, amount: 791.5733094332238, lvl: 11
+[2024-08-09T08:40:19.424Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5553.985763764884, Balance: 59050.44061195589, Referrer: Golyb333, amount: 555.3985763764884, lvl: 8
+[2024-08-09T08:40:21.998Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3090.797092799999, Balance: 3091.17145171893, Referrer: TIMOHA200483, amount: 309.0797092799999, lvl: 4
+[2024-08-09T08:40:26.187Z] User: iluhatck (ID: 6056983565), Action: Quiz Lose, Amount: 0, Balance: 3091.17145171893, 
+[2024-08-09T08:52:43.632Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 67939.04061195589, 
+[2024-08-09T08:53:36.492Z] User: CourtisYT (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 263113.5184808066, 
+[2024-08-09T08:56:31.167Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 628750.0670918658, Farms Mined: 18
+[2024-08-09T09:07:57.473Z] User: quuski (ID: 939946520), Action: Cripta sell, Amount: 61094.15, Balance: 129033.19061195588, Coin: Bitcoin, Amount: 1
+[2024-08-09T09:08:12.547Z] User: quuski (ID: 939946520), Action: Cripta bought, Amount: 61094.15, Balance: 67939.04061195589, Coin: Bitcoin, Amount: 1
+[2024-08-09T09:09:59.606Z] User: CourtisYT (ID: 7449397621), Action: Cripta bought, Amount: 205304.503392, Balance: 57809.0150888066, Coin: Pepe, Amount: 22811611488
+[2024-08-09T09:11:10.803Z] User: CourtisYT (ID: 7449397621), Action: Cripta sell, Amount: 204404.503392, Balance: 262213.5184808066, Coin: Pepe, Amount: 22711611488
+[2024-08-09T09:11:19.023Z] User: CourtisYT (ID: 7449397621), Action: Cripta sell, Amount: 0.000009, Balance: 262213.5184898066, Coin: Pepe, Amount: 1
+[2024-08-09T09:12:40.674Z] User: CourtisYT (ID: 7449397621), Action: Cripta bought, Amount: 26, Balance: 262187.5184898066, Coin: TON Coin, Amount: 4
+[2024-08-09T09:13:05.731Z] User: CourtisYT (ID: 7449397621), Action: Cripta bought, Amount: 13156, Balance: 249031.51848980662, Coin: TON Coin, Amount: 2024
+[2024-08-09T09:13:28.815Z] User: CourtisYT (ID: 7449397621), Action: Cripta bought, Amount: 180, Balance: 248851.51848980662, Coin: Pepe, Amount: 20000000
+[2024-08-09T09:14:22.679Z] User: CourtisYT (ID: 7449397621), Action: Cripta sell, Amount: 13188.5, Balance: 262040.01848980662, Coin: TON Coin, Amount: 2029
+[2024-08-09T09:14:59.475Z] User: CourtisYT (ID: 7449397621), Action: Cripta sell, Amount: 1079.9999910000001, Balance: 263120.0184808066, Coin: Pepe, Amount: 119999999
+[2024-08-09T10:29:49.726Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6487.266577576072, Balance: 635237.3336694419, Referrer: Golyb333, amount: 648.7266577576073, lvl: 11
+[2024-08-09T10:29:50.780Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1981, Balance: 1981.4717407025164, lvl: 0
+[2024-08-09T10:30:10.784Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 1981.4717407025164, 
+[2024-08-09 13:30:43] User: N1X0nat (ID: 5421713037), Action: Rocket Win, Amount: 150, Balance: 2031.4717407025164, 
+[2024-08-09 13:30:52] User: N1X0nat (ID: 5421713037), Action: Rocket Crash, Amount: 1500, Balance: 531.4717407025164, 
+[2024-08-09 13:31:03] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 531, Balance: 0.4717407025163993, 
+[2024-08-09 14:00:29] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 30000, Balance: 665237.3336694419, 
+[2024-08-09T16:16:05.171Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4338.783947964247, Balance: 72277.82455992013, Referrer: Golyb333, amount: 433.87839479642474, lvl: 8
+[2024-08-09T16:16:05.180Z] User: quuski (ID: 939946520), Action: Mining Farm, Amount: 5000, Balance: 77277.82455992013, Farm: 1
+[2024-08-09T16:16:05.193Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7408.585218560818, Balance: 672645.9188880026, Referrer: Golyb333, amount: 740.8585218560819, lvl: 11
+[2024-08-09T16:16:16.454Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2741.182339679999, Balance: 5832.353791398929, Referrer: TIMOHA200483, amount: 274.1182339679999, lvl: 4
+[2024-08-09T16:16:39.493Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1618, Balance: 1618.4717407025164, lvl: 0
+[2024-08-09T16:16:49.656Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 12544.15379139893, 
+[2024-08-09T16:16:50.212Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 6153.471740702516, 
+[2024-08-09 19:17:23] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 6000, Balance: 153.4717407025164, 
+[2024-08-09T16:17:31.765Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 20000, Balance: 33834.44391864509, To: N1X0nat (ID: 5421713037)
+[2024-08-09T16:23:02.654Z] User: iluhatck (ID: 6056983565), Action: Quiz Lose, Amount: 0, Balance: 5832.353791398929, 
+[2024-08-09 19:24:13] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 5832, Balance: 0.3537913989293884, 
+[2024-08-09T16:24:18.979Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 2000, Balance: 31834.44391864509, To: iluhatck (ID: 6056983565)
+[2024-08-09 19:24:45] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 2000, Balance: 0.3537913989293884, 
+[2024-08-09T16:34:08.703Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 683167.1188880026, 
+[2024-08-10T07:10:52.021Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 20000, Balance: 11834.44391864509, To: iluhatck (ID: 6056983565)
+[2024-08-10T07:11:12.257Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7810.077286879859, Balance: 690977.1961748825, Referrer: Golyb333, amount: 781.007728687986, lvl: 11
+[2024-08-10T07:11:12.305Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 741258.3540912911, Farms Mined: 18
+[2024-08-10T07:43:32.586Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2766.516742079999, Balance: 22766.870533478927, Referrer: TIMOHA200483, amount: 276.6516742079999, lvl: 4
+[2024-08-10T07:43:49.139Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 29478.670533478926, 
+[2024-08-10 10:44:06] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10000, Balance: 19478.670533478926, 
+[2024-08-10 10:44:53] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 19478.670533478926, Balance: 0, 
+[2024-08-10T07:57:41.381Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5268.727121558161, Balance: 82546.55168147829, Referrer: Golyb333, amount: 526.8727121558162, lvl: 8
+[2024-08-10T08:58:44.426Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8410.202273209372, Balance: 749668.5563645004, Referrer: Golyb333, amount: 841.0202273209372, lvl: 11
+[2024-08-10 11:58:56] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 50000, Balance: 799668.5563645004, 
+[2024-08-10T10:36:47.324Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3062.084770079999, Balance: 3062.084770079999, Referrer: TIMOHA200483, amount: 306.20847700799993, lvl: 4
+[2024-08-10T10:37:12.250Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 9773.88477008, 
+[2024-08-10T10:40:56.144Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 810189.7563645004, 
+[2024-08-10 13:41:13] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 9000, Balance: 18773.88477008, 
+[2024-08-10 13:41:38] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 18773.88477008, Balance: 0, 
+[2024-08-10T16:03:16.597Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 20153.471740702516, 
+[2024-08-10T16:03:17.084Z] User: CourtisYT (ID: 7449397621), Action: Farm Refferef to, Amount: 1854.7799999999997, Balance: 264974.79848080664, Referrer: Golyb333, amount: 185.47799999999998, lvl: 1
+[2024-08-10T16:03:19.512Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4795.197775495003, Balance: 87341.7494569733, Referrer: Golyb333, amount: 479.5197775495003, lvl: 8
+[2024-08-10T16:04:05.993Z] User: quuski (ID: 939946520), Action: Quiz Win, Amount: 8888.6, Balance: 96230.3494569733, 
+[2024-08-10T16:09:41.713Z] User: CourtisYT (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 270053.99848080665, 
+[2024-08-10T16:13:15.677Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8008.710204890331, Balance: 818198.4665693907, Referrer: Golyb333, amount: 800.8710204890331, lvl: 11
+[2024-08-10 19:13:36] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 30000, Balance: 848198.4665693907, 
+[2024-08-10 19:18:37] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 500000, Balance: 1348198.4665693906, 
+[2024-08-10T16:27:08.078Z] User: Golyb333 (ID: 974187132), Action: Balance changed, User 974187132's balance changed by -425032.
+[2024-08-10T16:27:08.078Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted -425032 from user 974187132
+[2024-08-10T17:05:50.880Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2952.302359679999, Balance: 2952.302359679999, Referrer: TIMOHA200483, amount: 295.23023596799993, lvl: 4
+[2024-08-10T17:05:58.116Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 9664.102359679999, 
+[2024-08-10 20:06:21] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 9664, Balance: 19328.10235968, 
+[2024-08-10 20:06:50] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 19328.10235968, Balance: 38656.20471936, 
+[2024-08-10 20:09:15] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 10000, Balance: 28656.20471936, 
+[2024-08-10 20:09:34] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 18000, Balance: 46656.20471936, 
+[2024-08-10 20:10:06] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 20000, Balance: 26656.20471936, 
+[2024-08-10 20:10:29] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 20000, Balance: 6656.204719360001, 
+[2024-08-10 20:10:55] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 6000, Balance: 12656.204719360001, 
+[2024-08-10 20:12:28] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 12000, Balance: 24656.20471936, 
+[2024-08-10 20:13:10] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 24000, Balance: 656.204719360001, 
+[2024-08-10 20:13:27] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 600, Balance: 56.204719360001036, 
+[2024-08-12T10:28:02.878Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3021.549726239999, Balance: 3077.7544456, Referrer: TIMOHA200483, amount: 302.1549726239999, lvl: 4
+[2024-08-12T10:28:02.883Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6533.75513285512, Balance: 929700.2217022458, Referrer: Golyb333, amount: 653.375513285512, lvl: 11
+[2024-08-12T10:28:02.893Z] User: iluhatck (ID: 6056983565), Action: Quiz Lose, Amount: 0, Balance: 3077.7544456, 
+[2024-08-12T10:28:02.889Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 929700.2217022458, 
+[2024-08-12T10:28:02.892Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 979981.3796186544, Farms Mined: 18
+[2024-08-12T10:28:27.121Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1941, Balance: 22094.471740702516, lvl: 0
+[2024-08-12T10:29:19.223Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6601.374849624643, Balance: 929767.8414190153, Referrer: Golyb333, amount: 660.1374849624643, lvl: 11
+[2024-08-12T10:29:19.234Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 980048.9993354239, Farms Mined: 18
+[2024-08-12T10:29:49.677Z] User: Golyb333 (ID: 1504349040), Action: Message deleted, Deleted message with ID 64862
+[2024-08-12T10:29:49.679Z] User: Golyb333 (ID: 1504349040), Action: Message deleted, Deleted message with ID 64864
+[2024-08-12T10:29:49.683Z] User: Golyb333 (ID: 1504349040), Action: Message deleted, Deleted message with ID 64863
+[2024-08-12T10:29:49.846Z] User: Golyb333 (ID: 1504349040), Action: Delete command deleted, Deleted 'delete' command with ID 64865
+[2024-08-12T10:29:49.852Z] User: Golyb333 (ID: 1504349040), Action: Delete command deleted, Deleted 'delete' command with ID 64868
+[2024-08-12T10:29:49.857Z] User: Golyb333 (ID: 1504349040), Action: Delete command deleted, Deleted 'delete' command with ID 64866
+[2024-08-12 13:35:38] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 40000, Balance: 1020048.9993354239, 
+[2024-08-12T10:36:24.954Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 1030570.1993354239, 
+[2024-08-12T11:30:44.187Z] User: Kirlandist (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 275133.19848080666, 
+[2024-08-12T11:37:02.657Z] User: Termibrawlnews1 (ID: 5929011102), Action: Quiz Lose, Amount: 0, Balance: 410, 
+[2024-08-12 14:39:27] User: Termibrawlnews1 (ID: 5929011102), Action: Casino Lose, Amount: 100, Balance: 437.8528816138637, 
+[2024-08-12 14:39:57] User: Termibrawlnews1 (ID: 5929011102), Action: Casino Win, Amount: 100, Balance: 537.8528816138637, 
+[2024-08-12 14:41:03] User: Termibrawlnews1 (ID: 5929011102), Action: Casino Win, Amount: 250, Balance: 787.8528816138637, 
+[2024-08-12T13:07:45.649Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2850.9647500799992, Balance: 5928.71919568, Referrer: TIMOHA200483, amount: 285.0964750079999, lvl: 4
+[2024-08-12T13:08:42.580Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 65925.44939887825, Balance: 82034.80026868908, lvl: 27
+[2024-08-12T13:09:48.353Z] User: iluhatck (ID: 6056983565), Action: Quiz Lose, Amount: 0, Balance: 5928.71919568, 
+[2024-08-12T13:09:55.640Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 22094.471740702516, 
+[2024-08-12 16:10:14] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 22000, Balance: 44094.47174070252, 
+[2024-08-12 16:10:33] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 5928, Balance: 11856.71919568, 
+[2024-08-12T13:20:58.244Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6406.968163912265, Balance: 1036977.1674993362, Referrer: Golyb333, amount: 640.6968163912265, lvl: 11
+[2024-08-12T13:21:00.315Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 1036977.1674993362, 
+[2024-08-12T14:08:41.985Z] User: Golyb333 (ID: 974187132), Action: Balance changed, User 974187132's balance changed by -5000000.
+[2024-08-12T14:08:41.985Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted -5000000 from user 974187132
+[2024-08-12T14:13:18.316Z] User: Golyb333 (ID: 974187132), Action: Balance changed, User 974187132's balance changed by 5000000.
+[2024-08-12T14:13:18.316Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 5000000 to user 974187132
+[2024-08-12 17:14:36] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 40000, Balance: 1076977.1674993364, 
+[2024-08-12T14:14:50.561Z] User: Golyb333 (ID: 974187132), Action: Balance changed, User 974187132's balance changed by -9999.
+[2024-08-12T14:14:50.561Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted -9999 from user 974187132
+[2024-08-12 17:14:57] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 10000, Balance: 1056978.1674993364, 
+[2024-08-12 17:15:05] User: Karkarich1223 (ID: 974187132), Action: Rocket Crash, Amount: 20000, Balance: 1036978.1674993364, 
+[2024-08-12 17:15:12] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 50000, Balance: 1086978.1674993364, 
+[2024-08-12T14:18:46.803Z] User: yayebishetupoe (ID: 7449397621), Action: Farm Refferef to, Amount: 2171.7, Balance: 277304.8984808067, Referrer: Golyb333, amount: 217.17, lvl: 1
+[2024-08-12T15:47:57.481Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7028.224311732253, Balance: 1094006.3918110686, Referrer: Golyb333, amount: 702.8224311732254, lvl: 11
+[2024-08-12T15:48:08.361Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 1104527.5918110686, 
+[2024-08-12T15:55:12.676Z] User: yayebishetupoe (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 282384.0984808067, 
+[2024-08-12T15:56:03.960Z] User: yayebishetupoe (ID: 7449397621), Action: Cripta bought, Amount: 11200, Balance: 271184.0984808067, Coin: Pepe, Amount: 1400000000
+[2024-08-12T15:57:12.621Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4877.922781734952, Balance: 101108.27223870825, Referrer: Golyb333, amount: 487.7922781734952, lvl: 8
+[2024-08-12T15:57:21.631Z] User: quuski (ID: 939946520), Action: Give, Amount: 7, Balance: 101101.27223870825, To: unknown (ID: 5442374880)
+[2024-08-13T11:22:42.666Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3121.198375679999, Balance: 14977.917571359998, Referrer: TIMOHA200483, amount: 312.1198375679999, lvl: 4
+[2024-08-13T11:23:09.264Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5014.846929994179, Balance: 106116.11916870243, Referrer: Golyb333, amount: 501.4846929994179, lvl: 8
+[2024-08-13T11:23:09.275Z] User: quuski (ID: 939946520), Action: Mining Farm, Amount: 5000, Balance: 111116.11916870243, Farm: 1
+[2024-08-13T11:23:14.990Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6542.20759745131, Balance: 1111069.7994085199, Referrer: Golyb333, amount: 654.2207597451311, lvl: 11
+[2024-08-13T12:30:48.895Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1788, Balance: 45882.47174070252, lvl: 0
+[2024-08-13T12:31:16.844Z] User: N1X0nat (ID: 5421713037), Action: Quiz Lose, Amount: 0, Balance: 45882.47174070252, 
+[2024-08-13 15:31:44] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 100, Balance: 45982.47174070252, 
+[2024-08-13 15:32:02] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 31900, Balance: 77882.47174070252, 
+[2024-08-13T12:55:49.251Z] User: lucasvasqez (ID: 1367587407), Action: Farm Refferef to, Amount: 1728, Balance: 3372, Referrer: XYU228120, amount: 172.8, lvl: 0
+[2024-08-13T13:04:02.026Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 1121590.9994085198, 
+[2024-08-13T13:04:07.621Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 1171872.1573249283, Farms Mined: 18
+[2024-08-13T13:23:20.849Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 3000, Balance: 82238.98724717158, To: yayebishetupoe (ID: 7449397621)
+[2024-08-13T15:12:46.700Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Lose, Amount: 0, Balance: 1171872.1573249283, 
+[2024-08-13T15:12:46.702Z] User: quuski (ID: 939946520), Action: Quiz Lose, Amount: 0, Balance: 111116.11916870243, 
+[2024-08-13T15:12:46.708Z] User: Karkarich1223 (ID: 974187132), Action: Give, Amount: 10000, Balance: 1161872.1573249283, To: quuski (ID: 939946520)
+[2024-08-13T15:13:00.084Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2815.496586719999, Balance: 17793.41415808, Referrer: TIMOHA200483, amount: 281.5496586719999, lvl: 4
+[2024-08-13T15:13:20.152Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 24505.214158079998, 
+[2024-08-13T15:15:04.685Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7632.575530359862, Balance: 1169504.732855288, Referrer: Golyb333, amount: 763.2575530359862, lvl: 11
+[2024-08-13T15:15:47.006Z] User: stress379eblan (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 279263.2984808067, 
+[2024-08-13T15:16:00.380Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5625.300424316565, Balance: 126741.41959301899, Referrer: Golyb333, amount: 562.5300424316565, lvl: 8
+[2024-08-13 18:16:08] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 1000, Balance: 78882.47174070252, 
+[2024-08-13 18:16:29] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 4000, Balance: 74882.47174070252, 
+[2024-08-13 18:17:05] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 8000, Balance: 66882.47174070252, 
+[2024-08-14T10:16:31.958Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6415.420628508455, Balance: 1175920.1534837966, Referrer: Golyb333, amount: 641.5420628508455, lvl: 11
+[2024-08-14T10:17:19.957Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3340.763196479999, Balance: 27845.977354559996, Referrer: TIMOHA200483, amount: 334.0763196479999, lvl: 4
+[2024-08-14T10:17:26.841Z] User: Kirlandist (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 284342.4984808067, 
+[2024-08-14T10:17:26.836Z] User: quuski (ID: 939946520), Action: Quiz Lose, Amount: 0, Balance: 126741.41959301899, 
+[2024-08-14T10:17:26.843Z] User: Kirlandist (ID: 7449397621), Action: Farm Refferef to, Amount: 1993.86, Balance: 286336.3584808067, Referrer: Golyb333, amount: 199.386, lvl: 1
+[2024-08-14T10:18:06.086Z] User: Kirlandist (ID: 7449397621), Action: Cripta bought, Amount: 14160, Balance: 272176.3584808067, Coin: TON Coin, Amount: 2000
+[2024-08-14T10:18:30.250Z] User: Kirlandist (ID: 7449397621), Action: Cripta bought, Amount: 261.266, Balance: 271915.0924808067, Coin: TRON, Amount: 2000
+[2024-08-14T10:20:25.723Z] User: iluhatck (ID: 6056983565), Action: Quiz Lose, Amount: 0, Balance: 27845.977354559996, 
+[2024-08-14 13:21:07] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 10000, Balance: 56882.47174070252, 
+[2024-08-14 13:21:11] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 20000, Balance: 7845.9773545599965, 
+[2024-08-14 13:21:24] User: N1X0nat (ID: 5421713037), Action: Casino Win, Amount: 56000, Balance: 112882.47174070252, 
+[2024-08-14T10:21:39.931Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1821, Balance: 114703.47174070252, lvl: 0
+[2024-08-14T10:21:47.975Z] User: N1X0nat (ID: 5421713037), Action: Quiz Win, Amount: 4535, Balance: 119238.47174070252, 
+[2024-08-14 13:22:08] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 17, Balance: 271898.0924808067, 
+[2024-08-14T10:22:09.141Z] User: N1X0nat (ID: 5421713037), Action: Give, Amount: 5000, Balance: 114238.47174070252, To: iluhatck (ID: 6056983565)
+[2024-08-14 13:22:42] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 34, Balance: 271864.0924808067, 
+[2024-08-14 13:23:05] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 68, Balance: 271796.0924808067, 
+[2024-08-14 13:23:13] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 136, Balance: 84269.70290549006, 
+[2024-08-14 13:23:30] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 272, Balance: 271524.0924808067, 
+[2024-08-14 13:24:08] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 544, Balance: 270980.0924808067, 
+[2024-08-14 13:24:24] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 1088, Balance: 269892.0924808067, 
+[2024-08-14 13:24:41] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 2176, Balance: 267716.0924808067, 
+[2024-08-14 13:25:01] User: Kirlandist (ID: 7449397621), Action: Casino Win, Amount: 4352, Balance: 272068.0924808067, 
+[2024-08-14 13:25:41] User: Kirlandist (ID: 7449397621), Action: Casino Lose, Amount: 0.8543363392818719, Balance: 272067.2381444674, 
+[2024-08-14 13:26:06] User: Kirlandist (ID: 7449397621), Action: Casino Win, Amount: 1.7086726785637438, Balance: 272068.946817146, 
+[2024-08-14T17:15:42.997Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7784.719893091287, Balance: 1183704.873376888, Referrer: Golyb333, amount: 778.4719893091287, lvl: 11
+[2024-08-14T17:28:13.157Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3274.893750239999, Balance: 16120.871104799995, Referrer: TIMOHA200483, amount: 327.4893750239999, lvl: 4
+[2024-08-14T17:28:41.870Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 22832.671104799996, 
+[2024-08-14 20:29:36] User: Kirlandist (ID: 7449397621), Action: Casino Win, Amount: 5000, Balance: 277068.946817146, 
+[2024-08-14T17:54:34.102Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 5519.754726700077, Balance: 132261.17431971908, Referrer: Golyb333, amount: 551.9754726700078, lvl: 8
+[2024-08-14T17:54:40.774Z] User: quuski (ID: 939946520), Action: Mining Farm, Amount: 5000, Balance: 137261.17431971908, Farm: 1
+[2024-08-16T07:13:23.286Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4895.038300267355, Balance: 142156.21261998644, Referrer: Golyb333, amount: 489.50383002673556, lvl: 8
+[2024-08-16T07:13:23.302Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 1233986.0312932965, Farms Mined: 18
+[2024-08-16T07:13:48.755Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8139.723406131281, Balance: 1242125.7546994279, Referrer: Golyb333, amount: 813.9723406131282, lvl: 11
+[2024-08-16T07:13:51.415Z] User: N1X0nat (ID: 5421713037), Action: Farm, Amount: 1732, Balance: 115970.47174070252, lvl: 0
+[2024-08-16 10:14:04] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 114970.47174070252, 
+[2024-08-16T07:19:14.013Z] User: Karkarich1223 (ID: 974187132), Action: Quiz Win, Amount: 10521.199999999999, Balance: 1252646.9546994278, 
+[2024-08-16 11:14:10] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 5000, Balance: 109970.47174070252, 
+[2024-08-16 11:14:34] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 16000, Balance: 93970.47174070252, 
+[2024-08-16 11:14:49] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 32000, Balance: 61970.47174070252, 
+[2024-08-16 11:15:07] User: N1X0nat (ID: 5421713037), Action: Casino Lose, Amount: 61000, Balance: 970.4717407025164, 
+[2024-08-16T08:24:11.353Z] User: quuski (ID: 939946520), Action: Mining Farm, Amount: 5000, Balance: 147156.21261998644, Farm: 1
+[2024-08-16T09:13:10.090Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 2881.3660329599993, Balance: 25714.037137759995, Referrer: TIMOHA200483, amount: 288.1366032959999, lvl: 4
+[2024-08-16T09:13:20.468Z] User: iluhatck (ID: 6056983565), Action: Quiz Win, Amount: 6711.8, Balance: 32425.837137759994, 
+[2024-08-16 12:14:32] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 32425, Balance: 64850.83713776, 
+[2024-08-16T11:47:41.922Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7108.522725396061, Balance: 1259755.477424824, Referrer: Golyb333, amount: 710.8522725396061, lvl: 11
+[2024-08-25T15:08:53.707Z] User: swatnulXD (ID: 7449397621), Action: Farm Refferef to, Amount: 2171.7, Balance: 279240.646817146, Referrer: Golyb333, amount: 217.17, lvl: 1
+[2024-08-25T15:09:12.892Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3375.8678956135664, Balance: 4945.455033373564, Referrer: TIMOHA200483, amount: 337.5867895613567, lvl: 6
+[2024-08-25 18:09:41] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 4000, Balance: 945.4550333735642, 
+[2024-08-25T15:13:47.836Z] User: Golyb333 (ID: 6056983565), Action: Balance changed, User 6056983565's balance changed by 15000.
+[2024-08-25T15:13:47.837Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 15000 to user 6056983565
+[2024-08-26T20:49:12.156Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6842.270090616066, Balance: 1266597.74751544, Referrer: Golyb333, amount: 684.2270090616066, lvl: 11
+[2024-08-26T21:24:29.979Z] User: quuski (ID: 939946520), Action: Farm Refferef to, Amount: 4407.24602209386, Balance: 151563.4586420803, Referrer: Golyb333, amount: 440.72460220938603, lvl: 8
+[2024-08-27T12:55:40.481Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3891.686462238526, Balance: 19837.14149561209, Referrer: TIMOHA200483, amount: 389.16864622385265, lvl: 6
+[2024-08-27T12:56:13.896Z] User: swatnulXD (ID: 7449397621), Action: Farm Refferef to, Amount: 2059.98, Balance: 281300.62681714597, Referrer: Golyb333, amount: 205.99800000000002, lvl: 1
+[2024-08-27T12:56:23.378Z] User: swatnulXD (ID: 7449397621), Action: Quiz Win, Amount: 5079.200000000001, Balance: 286379.826817146, 
+[2024-08-27 16:31:25] User: pavel6rapir (ID: 6056983565), Action: Casino Lose, Amount: 19000, Balance: 837.1414956120898, 
+[2024-10-26T08:25:46.234Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 60732.57362463171, Balance: 1000000060979.5717, lvl: 27
+[2024-10-26T08:28:25.338Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6559.11252664369, Balance: 1273156.8600420838, Referrer: Golyb333, amount: 655.911252664369, lvl: 11
+[2024-10-26T08:28:32.290Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 1323438.0179584923, Farms Mined: 18
+[2024-10-26T08:29:07.426Z] User: Karkarich1223 (ID: 974187132), Action: Cripta sell, Amount: 1475384.6800000002, Balance: 2798822.6979584927, Coin: Bitcoin, Amount: 22
+[2024-10-26 11:29:27] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 1, Balance: 2634.482952664369, 
+[2024-10-26 11:29:40] User: quuski (ID: 939946520), Action: Casino Lose, Amount: 2, Balance: 151561.4586420803, 
+[2024-10-26 11:30:03] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 98822, Balance: 2897644.6979584927, 
+[2024-10-26 11:30:14] User: quuski (ID: 939946520), Action: Casino Lose, Amount: 81756, Balance: 69805.45864208031, 
+[2024-10-26T08:30:35.879Z] User: quuski (ID: 939946520), Action: Cripta sell, Amount: 899.999991, Balance: 70705.45863308031, Coin: Pepe, Amount: 99999999
+[2024-10-26T08:31:25.990Z] User: quuski (ID: 939946520), Action: Cripta sell, Amount: 11076.730899, Balance: 81782.18953208032, Coin: Dogecoin, Amount: 82221
+[2024-10-26T08:35:14.837Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3880.7115991188457, Balance: 4717.8530947309355, Referrer: TIMOHA200483, amount: 388.0711599118846, lvl: 6
+[2024-10-26T08:38:18.350Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 5 790,68, Balance: 8 425,16, lvl: 10
+[2024-10-26 11:41:24] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 1000, Balance: 3717.8530947309355, 
+[2024-10-26 11:41:40] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 3717, Balance: 7434.8530947309355, 
+[2024-10-26 11:42:03] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 7434, Balance: 14868.853094730935, 
+[2024-10-26 11:43:09] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 14868, Balance: 0.8530947309354815, 
+[2024-10-26T10:44:52.720Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 6 425,16, New Factory: Текстильный завод
+[2024-10-26T11:29:15.190Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 4 425,16, New Factory: Электронный завод
+[2024-10-26T11:29:15.925Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 2 425,16, New Factory: Машиностроительный завод
+[2024-10-26T11:29:15.957Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 425,16, New Factory: Металлургический завод
+[2024-10-26T11:30:40.790Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 961 078 000,00, Balance: 961 078 425,16, Factories Count: 4
+[2024-10-26T11:58:26.615Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 076 425,16, New Factory: Текстильный завод
+[2024-10-26T11:58:26.644Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 074 425,16, New Factory: Металлургический завод
+[2024-10-26T11:59:28.120Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 17,08, Balance: 961 074 442,24, Factories Count: 2
+[2024-10-26T11:59:30.176Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,57, Balance: 961 074 442,81, Factories Count: 2
+[2024-10-26T11:59:31.017Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,23, Balance: 961 074 443,05, Factories Count: 2
+[2024-10-26T11:59:31.728Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,20, Balance: 961 074 443,25, Factories Count: 2
+[2024-10-26T11:59:38.245Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 1,81, Balance: 961 074 445,06, Factories Count: 2
+[2024-10-26T11:59:38.679Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,12, Balance: 961 074 445,18, Factories Count: 2
+[2024-10-26T11:59:39.057Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,11, Balance: 961 074 445,28, Factories Count: 2
+[2024-10-26T11:59:39.459Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,11, Balance: 961 074 445,39, Factories Count: 2
+[2024-10-26T12:03:07.743Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 072 445,39, New Factory: Электронный завод (ID: 1)
+[2024-10-26T12:03:07.767Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 070 445,39, New Factory: Металлургический завод (ID: 2)
+[2024-10-26T12:03:32.177Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 068 445,39, New Factory: Текстильный завод (ID: 3)
+[2024-10-26T12:03:32.576Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 066 445,39, New Factory: Машиностроительный завод (ID: 4)
+[2024-10-26T12:03:32.967Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 064 445,39, New Factory: Текстильный завод (ID: 5)
+[2024-10-26T12:03:33.338Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 062 445,39, New Factory: Автомобильный завод (ID: 6)
+[2024-10-26T12:03:33.721Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 060 445,39, New Factory: Автомобильный завод (ID: 7)
+[2024-10-26T12:03:34.137Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 058 445,39, New Factory: Текстильный завод (ID: 8)
+[2024-10-26T12:03:34.517Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 056 445,39, New Factory: Машиностроительный завод (ID: 9)
+[2024-10-26T12:03:34.907Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 054 445,39, New Factory: Электронный завод (ID: 10)
+[2024-10-26T12:03:35.297Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 052 445,39, New Factory: Машиностроительный завод (ID: 11)
+[2024-10-26T12:03:35.689Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 050 445,39, New Factory: Автомобильный завод (ID: 12)
+[2024-10-26T12:03:41.334Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 19,61, Balance: 961 050 465,00, Factories Count: 12
+[2024-10-26T12:03:41.873Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 0,92, Balance: 961 050 465,92, Factories Count: 12
+[2024-10-26T12:03:42.554Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 1,21, Balance: 961 050 467,13, Factories Count: 12
+[2024-10-26T12:03:43.182Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 1,17, Balance: 961 050 468,30, Factories Count: 12
+[2024-10-26T12:14:20.227Z] User: Golyb333 (ID: 1504349040), Action: Factory Upgrade, Amount: -1 600,00, Balance: 961 048 868,30, Upgraded Электронный завод with Новые Технологии
+[2024-10-26T12:15:36.269Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 1 477,98, Balance: 961 050 346,27, Factories Count: 12
+[2024-10-26T12:17:46.015Z] User: Golyb333 (ID: 1504349040), Action: Factory Upgrade, Amount: -1 500,00, Balance: 961 048 846,27, Upgraded Металлургический завод with Скорость Плавки
+[2024-10-26T15:11:22.397Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 24 052,65, Balance: 961 072 898,93, Factories Count: 12
+[2024-10-26T15:48:40.422Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 538,30, Balance: 3 539,15, Referrer: TIMOHA200483, amount: 353.829586978483, lvl: 6
+[2024-10-26T15:52:03.317Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 5000, Balance: 961072898.9250741, To: Golyb333 (ID: 1504349040)
+[2024-10-26T16:00:48.280Z] User: iluhatck (ID: 6056983565), Action: Give, Amount: 1, Balance: 3538.1489645157653, To: Golyb333 (ID: 1504349040)
+[2024-10-26T16:21:06.508Z] User: killixoffc (ID: 5656066934), Action: Farm, Amount: 1 767,00, Balance: 1 767,00, lvl: 0
+[2024-10-26T16:22:15.577Z] User: killixoffc (ID: 5656066934), Action: Quiz Lose, Amount: 0, Balance: 1767, 
+[2024-10-26T16:33:51.311Z] User: Golyb333 (ID: 1504349040), Action: Factory Purchase, Amount: -2 000,00, Balance: 961 080 899,93, New Factory: Автомобильный завод (ID: 1)
+[2024-10-26T16:33:56.589Z] User: Golyb333 (ID: 1504349040), Action: Factory Collection, Amount: 12 490,09, Balance: 961 093 390,01, Factories Count: 13
+[2024-10-26T16:33:59.308Z] User: killixoffc (ID: 5656066934), Action: Factory Purchase, Amount: -2 000,00, Balance: 4 767,00, New Factory: Электронный завод (ID: 2)
+[2024-10-26T16:34:27.908Z] User: killixoffc (ID: 5656066934), Action: Factory Collection, Amount: 3,97, Balance: 4 770,97, Factories Count: 1
+[2024-11-30T20:45:17.160Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 884,31, Balance: 961 100 274,32, lvl: 10
+[2024-11-30T20:45:24.652Z] User: Belocnik (ID: 5421713037), Action: Farm, Amount: 1 861,00, Balance: 2 831,47, lvl: 0
+[2024-11-30T20:45:28.227Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 939,98, Balance: 12 478,12, Referrer: TIMOHA200483, amount: 393.9975859965118, lvl: 6
+[2024-11-30 23:45:33] User: Belocnik (ID: 5421713037), Action: Casino Lose, Amount: 1800, Balance: 1031.4717407025164, 
+[2024-11-30 23:45:43] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 12478, Balance: 24956.12482448088, 
+[2024-11-30 23:45:53] User: Belocnik (ID: 5421713037), Action: Casino Lose, Amount: 1000, Balance: 31.4717407025164, 
+[2024-11-30 23:46:08] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 888, Balance: 25844.12482448088, 
+[2024-11-30T20:46:42.751Z] User: Golyb333 (ID: 1504349040), Action: Message sent to group, Message: Пидр бот обновился. теперь он работает только по понедельникам.
+[2024-11-30T21:08:36.832Z] User: Golyb333 (ID: 1504349040), Action: Message with reward sent to group, DeprecationWarning: The punycode module is deprecated. Please use a userland alternative instead
+[2024-12-05T07:50:09.219Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 7 128,99, Balance: 961 112 403,31, lvl: 10
+[2024-12-05T08:00:51.622Z] User: Golyb333 (ID: 1504349040), Action: Balance changed, User 1504349040's balance changed by 1.
+[2024-12-05T08:00:51.624Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 1 to user 1504349040
+[2024-12-05T08:09:32.291Z] User: Golyb333 (ID: 1504349040), Action: Balance changed, User 1504349040's balance changed by -1.
+[2024-12-05T08:09:32.294Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted 1 from user 1504349040
+[2024-12-05T08:09:39.290Z] User: Golyb333 (ID: 1504349040), Action: Balance changed, User 1504349040's balance changed by -961112403.
+[2024-12-05T08:09:39.291Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted 961112403 from user 1504349040
+[2024-12-05T08:15:07.764Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7 150,79, Balance: 2 904 795,48, Referrer: Golyb333, amount: 715.0785048377014, lvl: 11
+[2024-12-05T08:15:14.869Z] User: Karkarich1223 (ID: 974187132), Action: Mining Farm, Amount: 5000, Balance: 2909795.48300687, Farm: 1
+[2024-12-05T08:15:23.941Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 45281.15791640856, Balance: 2955076.6409232784, Farms Mined: 17
+[2024-12-05T09:14:43.210Z] User: swatnulXD (ID: 7449397621), Action: Cripta bought, Amount: 0.000062, Balance: 286379.826755146, Coin: Shiba Inu, Amount: 2
+[2024-12-05T09:15:23.013Z] User: swatnulXD (ID: 7449397621), Action: Cripta bought, Amount: 102881.22, Balance: 183498.60675514597, Coin: Bitcoin, Amount: 1
+[2024-12-05T11:12:18.987Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 324,52, Balance: 7 039,91, lvl: 10
+[2024-12-05T11:50:42.971Z] User: Golyb333 (ID: 1504349040), Action: Balance changed, User 1504349040's balance changed by 1000000000000000000.
+[2024-12-05T11:50:42.973Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 1000000000000000000 to user 1504349040
+[2024-12-05T11:52:08.175Z] User: Golyb333 (ID: 1504349040), Action: Balance changed, User 1504349040's balance changed by -1000000000000000000.
+[2024-12-05T11:52:08.177Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted 1000000000000000000 from user 1504349040
+[2024-12-05T11:59:24.734Z] User: Golyb333 (ID: 1504349040), Action: Balance changed, User 1504349040's balance changed by 30000.
+[2024-12-05T11:59:24.735Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 30000 to user 1504349040
+[2024-12-05T12:30:30.821Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 13903.125, Balance: 20943.125, Farms Mined: 3
+[2024-12-05T14:35:59.724Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 518,54, Balance: 34 362,67, Referrer: TIMOHA200483, amount: 351.8541116169406, lvl: 6
+[2024-12-05T14:36:06.228Z] User: swatnulXD (ID: 7449397621), Action: Farm Refferef to, Amount: 1 834,26, Balance: 185 332,87, Referrer: Golyb333, amount: 183.426, lvl: 1
+[2024-12-05T14:36:20.323Z] User: swatnulXD (ID: 7449397621), Action: Give, Amount: 1, Balance: 185331.86675514598, To: iluhatck (ID: 6056983565)
+[2024-12-05 17:37:28] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 88, Balance: 34275.66594065029, 
+[2024-12-05 17:37:57] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 1000, Balance: 33275.66594065029, 
+[2024-12-05T14:38:31.777Z] User: Golyb333 (ID: 1504349040), Action: Give, Amount: 1, Balance: 21125.551, To: iluhatck (ID: 6056983565)
+[2024-12-05T14:38:58.183Z] User: iluhatck (ID: 6056983565), Action: Viagra, Amount: 2100, Balance: 31176.665940650288, 7
+[2024-12-05T14:39:33.960Z] User: swatnulXD (ID: 7449397621), Action: Viagra, Amount: 3000, Balance: 182331.86675514598, 10
+[2024-12-05T14:40:11.030Z] User: Golyb333 (ID: 6056983565), Action: Balance changed, User 6056983565's balance changed by 35000.
+[2024-12-05T14:40:11.031Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 35000 to user 6056983565
+[2024-12-05 17:57:56] User: Golyb333 (ID: 1504349040), Action: Hold Lose, Amount: 5000, Balance: 16125.551, 
+[2024-12-05 17:58:32] User: iluhatck (ID: 6056983565), Action: Hold Lose, Amount: 1488, Balance: 64688.66594065029, 
+[2024-12-05 17:58:38] User: swatnulXD (ID: 7449397621), Action: Casino Lose, Amount: 1, Balance: 182330.86675514598, 
+[2024-12-05 17:58:52] User: iluhatck (ID: 6056983565), Action: Hold Lose, Amount: 64688, Balance: 0.6659406502876664, 
+[2024-12-05 17:59:04] User: swatnulXD (ID: 7449397621), Action: Casino Win, Amount: 20000, Balance: 202330.86675514598, 
+[2024-12-05T17:50:50.506Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 5 931,55, Balance: 21 947,11, lvl: 10
+[2024-12-05T17:54:07.929Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6 749,29, Balance: 2 931 825,93, Referrer: Golyb333, amount: 674.9292980057974, lvl: 11
+[2024-12-05 20:55:41] User: Golyb333 (ID: 1504349040), Action: Rocket Crash, Amount: 1000, Balance: 21622.034400595498, 
+[2024-12-05 20:55:53] User: Golyb333 (ID: 1504349040), Action: Rocket Crash, Amount: 1000, Balance: 20622.034400595498, 
+[2024-12-05 20:56:02] User: Golyb333 (ID: 1504349040), Action: Rocket Crash, Amount: 1000, Balance: 19622.034400595498, 
+[2024-12-05 20:56:15] User: Golyb333 (ID: 1504349040), Action: Rocket Crash, Amount: 1000, Balance: 18622.034400595498, 
+[2024-12-05 20:58:30] User: Golyb333 (ID: 1504349040), Action: Rocket Crash, Amount: 1000, Balance: 17622.034400595498, 
+[2024-12-05T18:59:47.725Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 619,51, Balance: 3 620,18, Referrer: TIMOHA200483, amount: 361.9509856870462, lvl: 6
+[2024-12-05 22:00:11] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 3619, Balance: 1.1757975207497111, 
+[2024-12-05T20:55:13.716Z] User: zxgriBlo (ID: 1380943076), Action: Farm, Amount: 1 881,00, Balance: 1 881,00, lvl: 0
+[2024-12-05T20:55:20.198Z] User: skyhavei (ID: 1722140817), Action: Farm, Amount: 1 720,00, Balance: 1 720,00, lvl: 0
+[2024-12-05 23:55:35] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 1881, Balance: 0, 
+[2024-12-05 23:55:46] User: skyhavei (ID: 1722140817), Action: Casino Lose, Amount: 1720, Balance: 0, 
+[2024-12-06T03:35:19.019Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 531,71, Balance: 3 532,89, Referrer: TIMOHA200483, amount: 353.17109519130224, lvl: 6
+[2024-12-06 06:35:32] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 3531, Balance: 1.8867494337719108, 
+[2024-12-06T04:23:17.690Z] User: zxgriBlo (ID: 1380943076), Action: Farm, Amount: 1 504,00, Balance: 1 504,00, lvl: 0
+[2024-12-06 07:23:31] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 500, Balance: 1004, 
+[2024-12-06 07:23:57] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 500, Balance: 504, 
+[2024-12-06 07:24:20] User: zxgriBlo (ID: 1380943076), Action: Casino Win, Amount: 500, Balance: 1004, 
+[2024-12-06 07:24:41] User: zxgriBlo (ID: 1380943076), Action: Casino Win, Amount: 500, Balance: 1504, 
+[2024-12-06 07:25:08] User: zxgriBlo (ID: 1380943076), Action: Casino Win, Amount: 1504, Balance: 3008, 
+[2024-12-06 07:25:26] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 500, Balance: 2508, 
+[2024-12-06 07:25:54] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 500, Balance: 2008, 
+[2024-12-06 07:26:30] User: zxgriBlo (ID: 1380943076), Action: Casino Win, Amount: 500, Balance: 2508, 
+[2024-12-06 07:26:56] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 2500, Balance: 8, 
+[2024-12-06T04:48:38.163Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 13903.125, Balance: 31525.159400595498, Farms Mined: 3
+[2024-12-06T04:50:35.796Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 50281.15791640856, Balance: 2982107.091819745, Farms Mined: 18
+[2024-12-06T04:50:42.116Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8 245,38, Balance: 2 990 352,47, Referrer: Golyb333, amount: 824.537921358366, lvl: 11
+[2024-12-06 07:51:38] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 5000, Balance: 27349.697321953863, 
+[2024-12-06 07:51:56] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 5000, Balance: 32349.697321953863, 
+[2024-12-06 07:52:14] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 2500, Balance: 34849.69732195386, 
+[2024-12-06 07:52:40] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 1250, Balance: 33599.69732195386, 
+[2024-12-06 07:54:16] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 50000, Balance: 3040352.4710333287, 
+[2024-12-06T04:54:27.210Z] User: Golyb333 (ID: 974187132), Action: Balance changed, User 974187132's balance changed by -9999999.
+[2024-12-06T04:54:27.210Z] User: Golyb333 (ID: 1504349040), Action: Funds deducted, Deducted 9999999 from user 974187132
+[2024-12-06T04:54:35.418Z] User: Golyb333 (ID: 974187132), Action: Balance changed, User 974187132's balance changed by 9999999.
+[2024-12-06T04:54:35.419Z] User: Golyb333 (ID: 1504349040), Action: Funds given, Given 9999999 to user 974187132
+[2024-12-06T06:01:13.024Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 224,42, Balance: 39 824,12, lvl: 10
+[2024-12-06T06:26:24.949Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 1 526,00, Balance: 1 526,00, lvl: 0
+[2024-12-06T06:32:38.618Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 624.0463, Balance: 40448.16820835893, Farm: 1
+[2024-12-06T06:32:40.104Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.14850000000000002, Balance: 40448.316708358936, Farm: 1
+[2024-12-06T06:32:40.774Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.06720000000000001, Balance: 40448.383908358934, Farm: 1
+[2024-12-06T06:32:41.329Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.055400000000000005, Balance: 40448.43930835893, Farm: 1
+[2024-12-06T06:32:41.722Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.0393, Balance: 40448.47860835893, Farm: 1
+[2024-12-06T06:32:42.120Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.0398, Balance: 40448.51840835893, Farm: 1
+[2024-12-06T06:32:42.511Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.0391, Balance: 40448.55750835893, Farm: 1
+[2024-12-06T06:32:45.759Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 0.32480000000000003, Balance: 40448.88230835893, Farm: 1
+[2024-12-06T06:33:16.139Z] User: Golyb333 (ID: 1504349040), Action: Mining Farm, Amount: 3.0380000000000003, Balance: 40451.92030835893, Farm: 1
+[2024-12-06T06:33:18.114Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 1256.1880999999998, Balance: 41708.10840835893, Farms Mined: 3
+[2024-12-06T06:33:25.017Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 2.0718, Balance: 41710.18020835893, Farms Mined: 3
+[2024-12-06T06:34:48.032Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 24.904500000000002, Balance: 41735.084708358925, Farms Mined: 3
+[2024-12-06T12:44:35.824Z] User: Golyb333 (ID: 6056983565), Action: User muted, Muted user 6056983565 for 15 seconds
+[2024-12-06T12:44:35.825Z] User: Golyb333 (ID: 6056983565), Action: User muted, Muted user 6056983565 for 1 seconds
+[2024-12-06T12:44:35.840Z] User: Golyb333 (ID: 6056983565), Action: User muted, Muted user 6056983565 for 1 minutes
+[2024-12-06T12:44:37.129Z] User: Golyb333 (ID: 6056983565), Action: User unmuted, Unmuted user 6056983565
+[2024-12-06T12:44:51.241Z] User: Golyb333 (ID: 6056983565), Action: User unmuted, Unmuted user 6056983565
+[2024-12-06T12:45:36.338Z] User: Golyb333 (ID: 6056983565), Action: User unmuted, Unmuted user 6056983565
+[2024-12-06 15:46:21] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 88, Balance: 3878.348623800679, 
+[2024-12-06T12:51:19.176Z] User: Golyb333 (ID: 974187132), Action: User muted, Muted user 974187132 for 5 minutes
+[2024-12-06T12:51:37.513Z] User: Golyb333 (ID: 974187132), Action: User unmuted, Unmuted user 974187132
+[2024-12-06T12:55:14.241Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7 586,09, Balance: 3 062 399,23, Referrer: Golyb333, amount: 758.6086975080816, lvl: 11
+[2024-12-06T12:55:18.539Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 37888.2684, Balance: 3100287.49540841, Farms Mined: 18
+[2024-12-06T13:32:06.036Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 736,02, Balance: 26 639,31, lvl: 10
+[2024-12-06T15:40:39.503Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 476,52, Balance: 175 390,47, lvl: 10
+[2024-12-06 18:40:55] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 50000, Balance: 125390.47009352365, 
+[2024-12-06T15:41:00.370Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 511,96, Balance: 7 390,30, Referrer: TIMOHA200483, amount: 351.19561982975983, lvl: 6
+[2024-12-06 18:41:06] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 50000, Balance: 75390.47009352365, 
+[2024-12-06 18:41:17] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 3551, Balance: 3839.3048220982764, 
+[2024-12-06 18:41:23] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 50000, Balance: 25390.470093523647, 
+[2024-12-06 18:41:32] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 3, Balance: 3836.3048220982764, 
+[2024-12-06 18:41:58] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 3, Balance: 3833.3048220982764, 
+[2024-12-07T02:40:08.440Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 15000, Balance: 40390.47009352365, Farms Mined: 3
+[2024-12-07T11:51:36.295Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 495,05, Balance: 46 885,52, lvl: 10
+[2024-12-07T11:51:41.932Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 9928.047900000001, Balance: 56813.569735859375, Farms Mined: 3
+[2024-12-07T11:53:46.571Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 90000, Balance: 3190287.49540841, Farms Mined: 18
+[2024-12-07T11:54:30.113Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 50.4543, Balance: 56864.02403585937, Farms Mined: 3
+[2024-12-07T11:54:31.895Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8 059,42, Balance: 3 198 346,92, Referrer: Golyb333, amount: 805.9424992467474, lvl: 11
+[2024-12-07T12:11:46.664Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 4 315,32, Balance: 8 148,62, Referrer: TIMOHA200483, amount: 431.53161786581745, lvl: 6
+[2024-12-07 15:13:09] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 8, Balance: 8140.6210007564505, 
+[2024-12-07 15:13:25] User: Golyb333 (ID: 1504349040), Action: Rocket Crash, Amount: 10000, Balance: 47669.96653510612, 
+[2024-12-07 15:13:34] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 30000, Balance: 17669.96653510612, 
+[2024-12-07 15:13:42] User: iluhatck (ID: 6056983565), Action: Rocket Win, Amount: 16280, Balance: 16280.621000756451, 
+[2024-12-07 15:13:57] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 17000, Balance: 669.9665351061194, 
+[2024-12-07 15:25:04] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 669, Balance: 1338.9665351061194, 
+[2024-12-07 17:40:54] User: swatnulXD (ID: 7449397621), Action: Casino Win, Amount: 669, Balance: 202999.86675514598, 
+[2024-12-07T14:41:12.079Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 99406.59, Balance: 302406.456755146, Coin: Bitcoin, Amount: 1
+[2024-12-07T14:45:00.009Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 3080, Balance: 305486.456755146, Coin: Pepe, Amount: 140000000
+[2024-12-07T14:45:39.413Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 2772, Balance: 308258.456755146, Coin: Pepe, Amount: 126000000
+[2024-12-07T14:45:49.869Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 2772, Balance: 311030.456755146, Coin: Pepe, Amount: 126000000
+[2024-12-07T14:46:29.932Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 22176, Balance: 333206.456755146, Coin: Pepe, Amount: 1008000000
+[2024-12-07T14:46:53.968Z] User: swatnulXD (ID: 7449397621), Action: Cripta bought, Amount: 2878.038, Balance: 330328.418755146, Coin: TRON, Amount: 9000
+[2024-12-07T14:47:06.208Z] User: Golyb333 (ID: 1504349040), Action: Cripta sell, Amount: 99493.18, Balance: 100832.14653510612, Coin: Bitcoin, Amount: 1
+[2024-12-07T14:48:41.139Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 3517.9539999999997, Balance: 333846.372755146, Coin: TRON, Amount: 11000
+[2024-12-07T14:48:47.322Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 3995.62, Balance: 337841.992755146, Coin: Ethereum, Amount: 1
+[2024-12-07T14:48:54.266Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 13820, Balance: 351661.992755146, Coin: TON Coin, Amount: 2000
+[2024-12-07T14:49:05.563Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 0.000062, Balance: 351661.992817146, Coin: Shiba Inu, Amount: 2
+[2024-12-07T14:49:52.070Z] User: swatnulXD (ID: 7449397621), Action: Cripta bought, Amount: 298500.87, Balance: 53161.12281714601, Coin: Bitcoin, Amount: 3
+[2024-12-07T14:55:41.750Z] User: swatnulXD (ID: 7449397621), Action: Cripta sell, Amount: 298503.18, Balance: 351664.302817146, Coin: Bitcoin, Amount: 3
+[2024-12-07T17:20:29.983Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 5 742,49, Balance: 106 574,63, lvl: 10
+[2024-12-07T17:32:32.705Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 36587.0376, Balance: 3234933.9580008774, Farms Mined: 18
+[2024-12-07T17:32:39.202Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 8 262,28, Balance: 3 243 196,24, Referrer: Golyb333, amount: 826.2284142776042, lvl: 11
+[2024-12-08T06:44:51.145Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 153,99, Balance: 1 022 563,85, lvl: 10
+[2024-12-08T06:45:03.275Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 15000, Balance: 1037563.8481463902, Farms Mined: 3
+[2024-12-08T08:36:31.226Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 6 499,95, Balance: 3 249 696,19, Referrer: Golyb333, amount: 649.9945274470359, lvl: 11
+[2024-12-08T08:36:35.940Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 90000, Balance: 3339696.1874181237, Farms Mined: 18
+[2024-12-08T11:07:42.708Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7 615,67, Balance: 3 347 311,86, Referrer: Golyb333, amount: 761.567060116748, lvl: 11
+[2024-12-08T11:07:45.829Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 16325.803800000005, Balance: 3363637.661819291, Farms Mined: 18
+[2024-12-08 14:07:55] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 100000, Balance: 3463637.661819291, 
+[2024-12-08T17:15:10.415Z] User: TIMOHA200483 (ID: 5882944093), Action: Farm Refferef to, Amount: 1 866,00, Balance: 102 171,14, Referrer: Golyb333, amount: 186.60000000000002, lvl: undefined
+[2024-12-08T18:06:05.542Z] User: Golyb333 (ID: 5882944093), Action: User muted, Muted user 5882944093 for 40 minutes
+[2024-12-08T18:07:40.645Z] User: Golyb333 (ID: 5882944093), Action: User unmuted, Unmuted user 5882944093
+[2024-12-08T18:46:06.079Z] User: Golyb333 (ID: 5882944093), Action: User unmuted, Unmuted user 5882944093
+[2024-12-09T03:43:39.628Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7 209,95, Balance: 3 470 847,61, Referrer: Golyb333, amount: 720.9952300550345, lvl: 11
+[2024-12-09T03:43:43.853Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 90000, Balance: 3560847.6141198413, Farms Mined: 18
+[2024-12-09 07:03:43] User: Golyb333 (ID: 1504349040), Action: Casino Lose, Amount: 10000, Balance: 1029883.004964009, 
+[2024-12-09 07:05:30] User: Karkarich1223 (ID: 974187132), Action: Casino Lose, Amount: 100000, Balance: 3460847.6141198413, 
+[2024-12-09 07:09:21] User: Karkarich1223 (ID: 974187132), Action: Casino Lose, Amount: 262, Balance: 3460585.6141198413, 
+[2024-12-09T04:19:36.514Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 4 313,12, Balance: 20 593,74, Referrer: TIMOHA200483, amount: 431.3121206034238, lvl: 6
+[2024-12-09 07:19:57] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 20593, Balance: 0.7422067906882148, 
+[2024-12-09T15:03:53.665Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 5 735,07, Balance: 1 035 618,08, lvl: 10
+[2024-12-09T15:03:56.452Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 15000, Balance: 1050618.0763369505, Farms Mined: 3
+[2024-12-09T15:04:37.270Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7 750,91, Balance: 3 468 336,52, Referrer: Golyb333, amount: 775.0910034706526, lvl: 11
+[2024-12-09T15:04:39.976Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 73541.016, Balance: 3541877.5401545474, Farms Mined: 18
+[2024-12-09T15:41:38.053Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 887,30, Balance: 3 888,04, Referrer: TIMOHA200483, amount: 388.7296516990654, lvl: 6
+[2024-12-09T15:42:47.990Z] User: TIMOHA200483 (ID: 5882944093), Action: Farm Refferef to, Amount: 1 935,00, Balance: 104 926,18, Referrer: Golyb333, amount: 193.5, lvl: undefined
+[2024-12-09T16:40:40.742Z] User:  (ID: -1002112685834), Action: Message deleted, Deleted message with ID 141469
+[2024-12-09 19:45:49] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 88, Balance: 3800.038723781342, 
+[2024-12-09 19:46:39] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 1000, Balance: 2800.038723781342, 
+[2024-12-09 19:46:57] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 2000, Balance: 800.038723781342, 
+[2024-12-09T16:47:14.443Z] User: skyhavei (ID: 1722140817), Action: Farm, Amount: 1 601,00, Balance: 1 601,00, lvl: 0
+[2024-12-09 19:47:23] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 1601, Balance: 3202, 
+[2024-12-09 19:47:42] User: iluhatck (ID: 6056983565), Action: Rocket Crash, Amount: 800, Balance: 0.03872378134201426, 
+[2024-12-09 19:48:00] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 3000, Balance: 6202, 
+[2024-12-09 19:48:24] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 6000, Balance: 12202, 
+[2024-12-09 19:48:43] User: skyhavei (ID: 1722140817), Action: Casino Lose, Amount: 6000, Balance: 6202, 
+[2024-12-09T16:49:59.741Z] User: polsha1236 (ID: 5767916946), Action: Farm, Amount: 1 844,00, Balance: 1 844,00, lvl: 0
+[2024-12-09 19:50:36] User: polsha1236 (ID: 5767916946), Action: Casino Lose, Amount: 88, Balance: 1756, 
+[2024-12-09 19:50:47] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 888, Balance: 7090, 
+[2024-12-09 19:50:51] User: polsha1236 (ID: 5767916946), Action: Casino Win, Amount: 1000, Balance: 2756, 
+[2024-12-09 19:51:07] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 1000, Balance: 8090, 
+[2024-12-09 19:51:35] User: polsha1236 (ID: 5767916946), Action: Casino Win, Amount: 2000, Balance: 4756, 
+[2024-12-09T19:05:58.116Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 4 328,49, Balance: 4 328,52, Referrer: TIMOHA200483, amount: 432.848601440179, lvl: 6
+[2024-12-10T08:27:47.366Z] User: zxgriBlo (ID: 1380943076), Action: Farm, Amount: 1 853,00, Balance: 1 861,00, lvl: 0
+[2024-12-10 11:30:19] User: zxgriBlo (ID: 1380943076), Action: Casino Win, Amount: 500, Balance: 2361, 
+[2024-12-10 11:30:23] User: zxgriBlo (ID: 1380943076), Action: Casino Win, Amount: 500, Balance: 2861, 
+[2024-12-10 11:30:54] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 2861, Balance: 0, 
+[2024-12-10 11:30:55] User: zxgriBlo (ID: 1380943076), Action: Casino Lose, Amount: 2861, Balance: -2861, 
+[2024-12-10 11:48:11] User: skyhavei (ID: 1722140817), Action: Casino Lose, Amount: 2000, Balance: 6090, 
+[2024-12-10 11:48:30] User: skyhavei (ID: 1722140817), Action: Casino Lose, Amount: 2000, Balance: 4090, 
+[2024-12-10T13:28:10.247Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 6 521,00, Balance: 1 058 107,67, lvl: 10
+[2024-12-10T13:28:10.257Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 15000, Balance: 1073107.6696319557, Farms Mined: 3
+[2024-12-10 16:29:03] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 500, Balance: 1073607.6696319557, 
+[2024-12-10T14:45:24.022Z] User: zxgriBlo (ID: 1380943076), Action: Farm, Amount: 1 733,00, Balance: -1 128,00, lvl: 0
+[2024-12-10 17:46:07] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 2000, Balance: 6090, 
+[2024-12-10T14:46:44.285Z] User: skyhavei (ID: 1722140817), Action: Farm, Amount: 1 845,00, Balance: 7 935,00, lvl: 0
+[2024-12-10T14:49:42.898Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 3 792,91, Balance: 8 121,44, Referrer: TIMOHA200483, amount: 379.2912694161406, lvl: 6
+[2024-12-10 17:49:58] User: iluhatck (ID: 6056983565), Action: Casino Win, Amount: 3792, Balance: 11913.437432344537, 
+[2024-12-10 17:50:32] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 6000, Balance: 13935, 
+[2024-12-10 17:58:48] User: skyhavei (ID: 1722140817), Action: Casino Win, Amount: 10000, Balance: 23935, 
+[2024-12-10 21:23:53] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 5000, Balance: 1078607.6696319557, 
+[2024-12-11T07:52:03.603Z] User: Golyb333 (ID: 1504349040), Action: Farm, Amount: 7 128,99, Balance: 1 085 736,66, lvl: 10
+[2024-12-11T07:52:03.614Z] User: Golyb333 (ID: 1504349040), Action: Mining All Farms, Amount: 15000, Balance: 1100736.6562190056, Farms Mined: 3
+[2024-12-11 13:26:13] User: Golyb333 (ID: 1504349040), Action: Casino Win, Amount: 50000, Balance: 1150736.6562190056, 
+[2024-12-11T10:32:18.930Z] User: iluhatck (ID: 6056983565), Action: Farm Refferef to, Amount: 4 126,55, Balance: 16 039,99, Referrer: TIMOHA200483, amount: 412.65485329996784, lvl: 6
+[2024-12-11 13:32:58] User: iluhatck (ID: 6056983565), Action: Casino Lose, Amount: 16000, Balance: 39.98596534421449, 
+[2024-12-11T10:46:06.990Z] User: Karkarich1223 (ID: 974187132), Action: Farm Refferef to, Amount: 7 214,18, Balance: 3 549 091,72, Referrer: Golyb333, amount: 721.4178532848441, lvl: 11
+[2024-12-11T10:46:14.844Z] User: Karkarich1223 (ID: 974187132), Action: Mining All Farms, Amount: 90000, Balance: 3639091.718687396, Farms Mined: 18
+[2024-12-11 13:46:25] User: Karkarich1223 (ID: 974187132), Action: Casino Win, Amount: 50000, Balance: 3689091.718687396, 

@@ -1,0 +1,72 @@
+[
+  {
+    "userId": 6056983565,
+    "username": "iluhatck",
+    "amount": 18000,
+    "balance": 46656.20471936,
+    "timestamp": "08-10 20:09:34"
+  },
+  {
+    "userId": 6056983565,
+    "username": "iluhatck",
+    "amount": 12000,
+    "balance": 24656.20471936,
+    "timestamp": "08-10 20:12:28"
+  },
+  {
+    "userId": 5421713037,
+    "username": "N1X0nat",
+    "amount": 22000,
+    "balance": 44094.47174070252,
+    "timestamp": "08-12 16:10:14"
+  },
+  {
+    "userId": 5421713037,
+    "username": "N1X0nat",
+    "amount": 31900,
+    "balance": 77882.47174070252,
+    "timestamp": "08-13 15:32:02"
+  },
+  {
+    "userId": 5421713037,
+    "username": "N1X0nat",
+    "amount": 56000,
+    "balance": 112882.47174070252,
+    "timestamp": "08-14 13:21:24"
+  },
+  {
+    "userId": 6056983565,
+    "username": "iluhatck",
+    "amount": 32425,
+    "balance": 64850.83713776,
+    "timestamp": "08-16 12:14:32"
+  },
+  {
+    "userId": 6056983565,
+    "username": "iluhatck",
+    "amount": 12478,
+    "balance": 24956.12482448088,
+    "timestamp": "11-30 23:45:43"
+  },
+  {
+    "userId": 1380943076,
+    "username": "zxgriBlo",
+    "amount": 1504,
+    "balance": 3008,
+    "timestamp": "12-06 07:25:08"
+  },
+  {
+    "userId": 1722140817,
+    "username": "skyhavei",
+    "amount": 1601,
+    "balance": 3202,
+    "timestamp": "12-09 19:47:23"
+  },
+  {
+    "userId": 1722140817,
+    "username": "skyhavei",
+    "amount": 10000,
+    "balance": 23935,
+    "timestamp": "12-10 17:58:48"
+  }
+]
